@@ -30,7 +30,7 @@ The model is designed to classify transactions as **fraudulent** or **genuine** 
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/<your-username>/UPI-Fraud-Detection-FNN.git
+git clone https://github.com/vineelach7/-Unified-Payment-Interface-Fraud-Detection-Using-Feed-Forward-Neural-Network.git
 cd UPI-Fraud-Detection-FNN
 pip install -r requirements.txt
 python src/train.py
